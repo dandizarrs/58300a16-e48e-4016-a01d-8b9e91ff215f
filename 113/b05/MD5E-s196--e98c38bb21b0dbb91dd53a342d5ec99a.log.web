@@ -1,0 +1,6 @@
+1791646185s 1 https://dandiarchive.s3.amazonaws.com/zarr/58300a16-e48e-4016-a01d-8b9e91ff215f/sorting/properties/decoder_label/.zarray?versionId=uN8Tvnqw.jZ5zT8_JLwbWrvuKzNcHN9C
+1791646185s 1 https://api.dandiarchive.org/api/zarr/58300a16-e48e-4016-a01d-8b9e91ff215f/files?prefix=sorting%2Fproperties%2Fdecoder_label%2F.zarray&download=true
+1791646185s 1 https://dandiarchive.s3.amazonaws.com/zarr/58300a16-e48e-4016-a01d-8b9e91ff215f/sorting/properties/main_channel_id/.zarray?versionId=7OSrRMqIWYbLNa8cdSvrZXScrVzQzz0m
+1791646185s 1 https://api.dandiarchive.org/api/zarr/58300a16-e48e-4016-a01d-8b9e91ff215f/files?prefix=sorting%2Fproperties%2Fmain_channel_id%2F.zarray&download=true
+1791646185s 1 https://dandiarchive.s3.amazonaws.com/zarr/58300a16-e48e-4016-a01d-8b9e91ff215f/sorting/properties/unitrefine_label/.zarray?versionId=x8kBgoHoVf3j58cSXS4KjZML9rvdLCzz
+1791646185s 1 https://api.dandiarchive.org/api/zarr/58300a16-e48e-4016-a01d-8b9e91ff215f/files?prefix=sorting%2Fproperties%2Funitrefine_label%2F.zarray&download=true
